@@ -1,0 +1,3 @@
+/home/duongtt/workplace/KLTN/FaceReg/build/CMakeFiles/facerec_ncnn.dir
+/home/duongtt/workplace/KLTN/FaceReg/build/CMakeFiles/edit_cache.dir
+/home/duongtt/workplace/KLTN/FaceReg/build/CMakeFiles/rebuild_cache.dir
