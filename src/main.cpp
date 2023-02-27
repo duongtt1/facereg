@@ -247,7 +247,7 @@ int main(int argc, char **argv)
     }
 
     // RaspiCam or Norton_2.mp4 ?
-    cv::VideoCapture cap(2);             
+    cv::VideoCapture cap(0);             
 
     if (!cap.isOpened()) {
         cerr << "ERROR: Unable to open the camera" << endl;

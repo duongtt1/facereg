@@ -3,7 +3,9 @@ project(facerec_ncnn)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(ncnn_DIR "/home/duongtt/tencent/ncnn/build/install/lib/cmake/ncnn")
+set(ncnn_DIR "/home/duoq/ncnn/build/install/lib/cmake/ncnn")
+set(OpenCV_DIR "/home/duoq/app/lib/cmake/opencv4")
+
 
 find_package(ncnn REQUIRED)
 
